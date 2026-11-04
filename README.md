@@ -56,7 +56,7 @@ Claude is told to commit and not hedge. Nuance means naming the condition, the c
 
 This repository has one file you need: `markkula-ethics-framework.skill`.
 
-1. Open this repository on GitHub. It is private, so you must be signed in to an account with access.
+1. Open this repository on GitHub.
 2. Click `markkula-ethics-framework.skill` in the file list.
 3. Click the download icon (**Download raw file**) at the top right of the file view. Do not use **Code > Download ZIP** unless you want the whole repository: you only need the single `.skill` file.
 4. Save it anywhere on your computer. Do not unzip it. It has to stay as a `.skill` file.
